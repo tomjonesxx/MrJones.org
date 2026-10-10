@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8BQ6MZMN42.BellNotifier.BellNotifier"],
+        "components": [
+          {
+            "/": "/timetable-tamer/import",
+            "comment": "Open shared day types in Timetable Tamer"
+          }
+        ]
+      }
+    ]
+  }
+}
